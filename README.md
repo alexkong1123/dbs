@@ -1,1 +1,1 @@
-discord-bot-studio.github.io
+discord-bot-studio
