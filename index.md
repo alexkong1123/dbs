@@ -1,6 +1,6 @@
 ## 歡迎來到 Discord Bot Studio
 
-You can use the [editor on GitHub](https://github.com/alexkong1123/discord-bot-studio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Discord Server[Discord Bot Studio](https://discord.gg/uetUZ2XmKW)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
