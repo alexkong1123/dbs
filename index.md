@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 歡迎來到 Discord Bot Studio
 
 You can use the [editor on GitHub](https://github.com/alexkong1123/discord-bot-studio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
