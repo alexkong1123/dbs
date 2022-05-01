@@ -1,1 +1,1 @@
-https://alexkong1123.github.io/dbs/
+https://alexkong1123.github.io/dbs
